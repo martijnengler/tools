@@ -6,6 +6,7 @@ a folder, you can use this script to automatically print attachments coming in o
 ## Credits
 
 Based on the great work of the awesome Dave Caolo of 52tiger.net
+
 Original can be found here: http://52tiger.net/print-from-ios-dropbox-ifttt-automator
 
 Differences between our workflows:
