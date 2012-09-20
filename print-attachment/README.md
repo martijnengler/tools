@@ -23,6 +23,6 @@ Installation is simple:
 3. Place the applescript in the folder ~/Library/Application
 		 Scripts/com.apple.mail (just create it, if it doesn't exist yet)
 4. Create a new rule in Mail, something like this:
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/martijnengler/tools/blob/master/print-attachment/screenshot.png)
 5. Send an email with an attachment to the specified email address
 6. Wait a few seconds… It's printing!
