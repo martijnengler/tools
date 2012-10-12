@@ -6,4 +6,4 @@ A faily simple script:
 2. It takes a look at your front window in Safari
 3. It loops through all your tabs and sends them to Instapaper
 4. After sending a tab to Instapaper it's automatically closed
-5. At the end of it all the window is closed and your Instapaper is full :)
+5. At the end of it the window is closed and your Instapaper is full :)
