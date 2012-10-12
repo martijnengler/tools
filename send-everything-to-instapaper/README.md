@@ -1,6 +1,6 @@
 A faily simple script:
 
-1. It asks you for your Instapaper credentials; don't worry I don't send them
+1. It asks you for your Instapaper credentials; don't worry, I won't send them
 	 to some server of mine. Check the source if you like. (You can even hardcode
 			 your credentials if you like that).
 2. It takes a look at your front window in Safari
