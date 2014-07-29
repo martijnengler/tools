@@ -14,5 +14,5 @@ tell application "Safari"
 		set result to result & "* \"" & name of eachTab & "\": \"" & URL of eachTab & "
 "
 	end repeat
-	do shell script "echo " & the quoted form of result & " | pbcopy"
+	set the clipboard to the text of result
 end tell
